@@ -1,0 +1,22 @@
+div#title {
+    
+}
+div#title .wrap {
+  height: 100%;
+}
+div#title .wrap h2 {  
+  font-size: 123px;
+  font-weight: 700;
+  margin-top: 190px;
+  color: transparent;
+  -webkit-text-stroke: #f8a112 2px;
+  color: #f8a112;
+}
+div#title .wrap h2 span{
+  color: transparent;
+  -webkit-text-stroke: #fff 2px;
+}
+div#title .wrap h2 span:nth-child(4){
+  color: transparent;
+  -webkit-text-stroke: #f8a112 2px;
+}
